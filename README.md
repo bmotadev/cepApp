@@ -20,7 +20,7 @@ Busca Cep - é um buscador de endereço que através do CEP digitado, retorna o 
 
 ### Layout
 
-<img style="width: 360px height: 200px" alt="BuscaCep" title="BuscaCep" src="./assets/img/telaprincipal.png" />
+<img alt="BuscaCep" title="BuscaCep" src="./assets/img/telaprincipal.png" />
 
 ---
 
