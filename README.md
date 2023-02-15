@@ -1,16 +1,43 @@
-# cep_app
+<h1 align="center">
+    <img alt="BuscaCep" title="BuscaCep" src="./assets/img/buscacep.jpg" />
+</h1>
 
-A new Flutter project.
+<p align="center">Um buscador de CEP nunca visto antes!</p>
 
-## Getting Started
+<h6 align="center"> 🚧 Em construção... 🚧 </h6>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Sobre o projeto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Busca Cep - é um buscador de endereço que através do CEP digitado, retorna o endereço completo. Foi desenvolvido em Flutter.
+
+---
+
+### Layout
+
+<img alt="BuscaCep" title="BuscaCep" src="./assets/img/telaprincipal.png" />
+
+---
+
+### Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [Dio](https://pub.dev/packages/dio)
+  
+---
+
+### Licença
+
+Este projeto esta sobe a licença MIT.
+
+---
+
+Feito com ❤️ por Bruno Mota 👋🏽 [Entre em contato!](https://www.linkedin.com/in/bmotadev/)
